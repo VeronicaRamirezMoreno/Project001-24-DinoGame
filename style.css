@@ -5,7 +5,7 @@
 
 body {
     height: 100vh;
-    background: #584040;
+    background: black;
     display: flex;
     align-items: center;
 }
@@ -23,7 +23,7 @@ body {
     width: 84px;
     height: 84px;
 
-    position: absolute;
+    position: absolute; 
     bottom: 22px;
     left: 42px;
     z-index: 2;
